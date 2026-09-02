@@ -6,10 +6,12 @@ public:
         int ans = INT_MAX;
         while(low<=high){
             int mid= (low+high)/2;
+            // Additional Optimal Part : You may remove it
             if(nums[low]<= nums[high]){
                 ans = min(nums[low], ans);
                 break;
             }
+            //
             if(nums[low] <= nums[mid]){
                 ans = min(nums[low], ans);
                 low = mid+1;
