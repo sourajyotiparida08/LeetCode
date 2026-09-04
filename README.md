@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sourajyotiparida08/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sourajyotiparida08/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sourajyotiparida08/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -42,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sourajyotiparida08/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
