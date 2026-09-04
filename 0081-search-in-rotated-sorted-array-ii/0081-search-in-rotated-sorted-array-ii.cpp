@@ -4,18 +4,22 @@ public:
         int n = nums.size();
         int low = 0, high = n-1;
         while(low<=high){
-            int mid = (low + high)/2;
+            int mid = (low+high)/2;
+
             if(nums[mid] == target) return true;
+            // Edge cases : 
             if(nums[low] == nums[mid] && nums[mid] == nums[high]){
-                low++, high--;
-                continue;
+                low++;
+                high--;
             }
-            if(nums[low] <= nums[mid]){
-                if(nums[low]<= target && nums[mid] >= target) high = mid-1;
+            // Left Sorted : 
+            else if(nums[low] <= nums[mid]) {
+                if(nums[low] <= target && nums[mid]>= target) high = mid-1;
                 else low = mid+1;
             }
+            // Right Sorted : 
             else{
-                if(nums[mid] <= target && nums[high]>=target) low = mid+1;
+                if(nums[mid]<= target && nums[high]>= target) low = mid+1;
                 else high = mid-1;
             }
         }
