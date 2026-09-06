@@ -9,10 +9,7 @@ int possible(vector<int> &arr, int div){
 }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
-        int low = 1, high = INT_MIN;
-        for(int i=0; i<n; i++){
-            high = max(high, nums[i]);
-        }
+        int low = 1, high = *max_element(nums.begin(), nums.end());
         int ans = 0;
         while(low<=high){
             int mid =(low+high)/2;
