@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sourajyotiparida08/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sourajyotiparida08/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sourajyotiparida08/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sourajyotiparida08/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sourajyotiparida08/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -82,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sourajyotiparida08/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sourajyotiparida08/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -116,4 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sourajyotiparida08/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
