@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sourajyotiparida08/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sourajyotiparida08/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/sourajyotiparida08/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sourajyotiparida08/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sourajyotiparida08/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sourajyotiparida08/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/sourajyotiparida08/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sourajyotiparida08/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sourajyotiparida08/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/sourajyotiparida08/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
