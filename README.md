@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sourajyotiparida08/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sourajyotiparida08/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sourajyotiparida08/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/sourajyotiparida08/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sourajyotiparida08/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sourajyotiparida08/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sourajyotiparida08/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sourajyotiparida08/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sourajyotiparida08/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sourajyotiparida08/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sourajyotiparida08/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sourajyotiparida08/LeetCode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/sourajyotiparida08/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
