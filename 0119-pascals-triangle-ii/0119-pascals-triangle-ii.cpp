@@ -1,17 +1,13 @@
 class Solution {
 public:
-int funNCR(int n, int r){
-    long long res = 1; 
-    for(int i=0; i<r; i++){
-        res = res*(n-i);
-        res = res/(i+1);
-    }
-    return res;
-}
     vector<int> getRow(int rowIndex) {
         vector<int> ans;
-        for(int i=0; i<=rowIndex; i++){
-            ans.push_back(funNCR(rowIndex, i));
+        long long temp = 1; 
+        ans.push_back(temp);
+        for(int i=0; i<rowIndex; i++){
+            temp = temp * (rowIndex-i);
+            temp = temp/(i+1);
+            ans.push_back(temp);
         }
         return ans;
     }
